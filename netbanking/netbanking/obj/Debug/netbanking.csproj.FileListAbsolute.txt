@@ -1,0 +1,17 @@
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\bin\Debug\netbanking.exe.config
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\bin\Debug\netbanking.exe
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\bin\Debug\netbanking.pdb
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.csprojResolveAssemblyReference.cache
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.Form1.resources
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.Properties.Resources.resources
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.csproj.GenerateResource.Cache
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.exe
+c:\users\h4k3r\documents\visual studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.pdb
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.adminview.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.userview.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.useroperations.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.about.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.deposit.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.myaccount.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.transfer.resources
+C:\Users\H4k3R\Documents\Visual Studio 2012\Projects\netbanking\netbanking\obj\Debug\netbanking.withdraw.resources
